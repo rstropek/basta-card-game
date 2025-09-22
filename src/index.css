@@ -29,7 +29,7 @@ body {
   backdrop-filter: blur(6px);
 }
 .topbar .title { font-weight: 700; letter-spacing: 0.4px; }
-.topbar .stats { display: flex; gap: 12px; font-size: 14px; color: #0a0f14; }
+.topbar .stats { display: flex; gap: 12px; font-size: 14px; color: var(--muted); }
 
 .table {
   display: grid;
