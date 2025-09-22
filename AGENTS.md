@@ -123,6 +123,8 @@ Pontoon (also known as Twenty-One or Blackjack) is a card game where players com
 ### UI/UX Features
 
 #### Responsive Design
+- **Game Controls** in the bottom left corner
+- **Game Stats** in the upper right corner
 - **Portrait Mode**: Single column layout, stacked sections
 - **Landscape Mode**: Two-column layout for optimal space usage
 - **Mobile Friendly**: Touch-friendly buttons and appropriate sizing
